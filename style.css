@@ -38,18 +38,18 @@ background-color: #3287ff;
     margin-right: 20px;
     float: left;
     border: 70px;
-    margin-left: 10px;
-    margin-right: 10px;
+
     background-color: #ff0f64;
 }
 
 #texto1{
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 30px;
+    margin-left: 20px;
 }
 
 #texto2{
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 30px;
 }
 
@@ -58,7 +58,7 @@ background-color: #3287ff;
 }
 
 #texto3{
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 30px;
 }
 
@@ -71,13 +71,17 @@ background-color: #3287ff;
     margin-bottom: 30px;
 }
 #texto4{
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 30px;
 }
 
-#tirulog{
-    font-size: 50px;
+#titulog{
+    font-size: 40px;
     text-align: center;
-    color: #053246 ;
+    color: #000 ;
     
+}
+
+h1{
+    color: #053246;
 }
