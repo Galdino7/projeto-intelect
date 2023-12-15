@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+/*
+azul escuro : #053246
+azul claro : #3287ff
+roxo : #7d2deb
+amarelo : #ffb419
+laranja : #fa6914
+vermelho : #ff0f64
+
+cima=top
+baixo=bottom
+esquerda=left
+direita=right
+
+*/
+body{
+    font-family: 'Preahvihear', sans-serif;
+}
+#cabe{
+    background-color: #ffb419;
+    padding: 10px;
+}
+#titulo{
+    text-align: center;
+}
+
+#rodape{
+background-color: #3287ff;
+}
+
+#img{
+    width: 400px;
+    height: 400px;
+    margin-right: 20px;
+    float: left;
+    border: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #ff0f64;
+}
+
+#texto1{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+#texto2{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+#titulo2{
+    background-color: #ff0f64;
+}
+
+#texto3{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+#titulo3{
+    background-color: #ff0f64;
+}
+
+#titulo4{
+    background-color: #ff0f64;
+    margin-bottom: 30px;
+}
+#texto4{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+#tirulog{
+    font-size: 50px;
+    text-align: center;
+    color: #053246 ;
+    
+}
