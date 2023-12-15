@@ -38,6 +38,7 @@ background-color: #3287ff;
     margin-right: 20px;
     float: left;
     border: 70px;
+    
 
     background-color: #ff0f64;
 }
@@ -46,21 +47,20 @@ background-color: #3287ff;
     font-size: 20px;
     margin-bottom: 30px;
     margin-left: 20px;
+    padding-top: 30px;
 }
 
-#texto2{
+.texto{
     font-size: 20px;
     margin-bottom: 30px;
+    padding-top: 30px;
 }
+
 
 #titulo2{
     background-color: #ff0f64;
 }
 
-#texto3{
-    font-size: 20px;
-    margin-bottom: 30px;
-}
 
 #titulo3{
     background-color: #ff0f64;
@@ -70,10 +70,7 @@ background-color: #3287ff;
     background-color: #ff0f64;
     margin-bottom: 30px;
 }
-#texto4{
-    font-size: 20px;
-    margin-bottom: 30px;
-}
+
 
 #titulog{
     font-size: 40px;
